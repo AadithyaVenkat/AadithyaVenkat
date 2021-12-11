@@ -1,8 +1,8 @@
 ### Hi there. I am Aadithya 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vickymhs&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AadithyaVenkat&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vickymhs&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AadithyaVenkat&layout=compact)
 
 <!--
 **AadithyaVenkat/AadithyaVenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
